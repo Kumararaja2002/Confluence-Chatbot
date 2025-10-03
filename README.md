@@ -53,5 +53,4 @@ install -r requirements.txtShow more lines
 ```
 streamlit run app.py
 ```
-ATLASSIAN_API_KEY=your_confluence_api_key
-GROQ_API_KEY=your_groq_api_key
+
